@@ -1,0 +1,465 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    margin-left: 50px;
+    width: 1200px;
+    height: 1000px;
+    border-color: black 5px;
+}
+.nav{
+    background-color: rgb(141, 182, 0); 
+    padding-top: 20px;
+    height: 60px;
+    width: 1200px;
+    text-decoration: none;
+    float: left;
+}
+.nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    padding-left: 80px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+.menu{
+    padding-left: 30px;
+    color: grey;
+    margin: 30px;
+    font-size: larger;
+}
+.header{
+    float: left;
+    height: 700px;
+    width: 1200px;
+    background-image: url("../images/background.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu1{
+    margin-left: 350px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    background-image: url(../images/white-paper-texture.jpg);
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    padding-top: 80px;
+    border-radius: 10px;
+}
+.menu2{
+    color: green;
+    font-size: x-small;
+}
+.menu3{
+    font-size: x-large;
+}
+.button{
+    padding: 10px;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(141, 182, 0);
+    border-color:   rgb(141, 182, 0);
+}
+.content{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 1200px;
+}
+.para1{
+    text-align: center;
+    height: 200px;
+    width: 550px;
+    background-color: #ffd800;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+.para2{
+    text-align: start;
+    border-radius: 20px;
+    height: 200px;
+    width: 550px;
+    background-color: #ff6984;
+    float: left;
+    margin: 25px;
+}
+.menu4{
+    margin-left: 400px;
+}
+.button1{
+    padding: 10px;
+    border-radius: 12px;
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+.button2{
+    padding: 10px;
+    border-radius: 12px;
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+.menu5{
+    color: white;
+
+}
+.menu6{
+    color: white;
+
+}
+.pa1{
+    float: left;
+    height: 400px;
+    width: 250px;
+}
+.pa2{
+    margin-top: 50px;
+    height: 400px;
+    width: 250px;
+    float: left;
+}
+.pa3{
+    float: left;
+    height: 400px;
+    width: 250px;
+}
+.pa4{
+    margin-top: 50px;
+    height: 400px;
+    width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+.head{
+    height: 50px;
+    width: 500px;
+    font-size: x-large;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.A{
+    margin-left: 1150px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container1{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 600px;
+    width: 1200px;
+}
+
+.header1{
+    height: 500px;
+    width: 1200px;
+    background-color: whitesmoke;
+}
+.para3{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: blue;
+}
+.para4{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: rebeccapurple;
+}
+.para5{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: teal;
+}
+.para6{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: palevioletred;
+}
+.button3{
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #8fd400;
+    border-color: #8fd400;
+    color: white;
+}
+.B{
+    font-size: medium;
+}
+
+.head1{
+    margin-top: 100px;
+    height: 200px;
+    width: 500px;
+    font-size: x-large;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.A{
+    margin-left: 1100px;
+}
+.container2{
+    margin-left: 50px;
+    height: 600px;
+    width: 1200px;
+}
+.header2{
+    margin-left: 50px;
+    height: 500px;
+    width: 1200px;
+    background-color: whitesmoke;
+}
+.para7{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: purple;
+}
+.para8{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: green;
+}
+.para9{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: orangered;
+}
+.para10{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 400px;
+    float: left;
+    background-color: rgb(19, 209, 255);
+}
+.button4{
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #8fd400;
+    border-color: #8fd400;
+    color: white;
+}
+.B{
+    font-size: medium;
+}
+.container3{
+    margin-left: 50px;
+    height: 2500px;
+    width: 1200px;
+}
+.header3{
+    height: 600px;
+    width: 1200px;  
+    background-image: url("../images/surreal-rendering-kid-bounding-with-giant-stuffed-toy.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu8{
+    color: white;
+    text-align: center;
+   margin-left: 300px;
+}
+.menu9{
+    color: #8fd400;
+    margin-left: 550px;
+}
+.content4{
+    text-align: center;
+    padding-top: 50px;
+    height: 600px;
+    width: 1200px;
+    background-color: whitesmoke;
+}
+.menu10{
+    color: #8fd400;
+}
+.para11{
+    text-align: center;
+    margin-top: 100px;
+    margin: 10px;
+    height: 500px;
+    width: 580px;
+    float: left;
+}
+.para12{
+    margin: 10px;
+    height: 500px;
+    width: 580px;
+    float: left;
+    border-radius: 10px;
+}
+.menu11{
+    border-radius: 10px;
+}
+.menu12{
+    color: grey;
+}
+.button5{
+    padding: 12px;
+    border-radius: 14px;
+    color: white;
+    background-color: #8fd400;
+    border-color: #8fd400;
+}
+.content5{
+    height: 300px;
+    width: 1200px;
+    background-color: palegreen;
+}
+.para13{
+    padding-top: 30px;
+    padding-left: 50px;
+    justify-content: center;
+    background-color: white;
+    float: left;
+    height: 150px;
+    width: 200px;
+}
+.para14{
+    background-color: white;
+    float: left;
+    height: 150px;
+    width: 400px;
+    justify-content: center;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.para15{
+    padding-top: 60px;
+    background-color: white;
+    float: left;
+    height: 150px;
+    width: 600px;
+}
+.pa5{
+    color: #8fd400;
+}
+.button6{
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: #8fd400;
+    border-color: #8fd400;
+    margin-left: 430px;
+}
+.footer{
+    padding-top: 30px;
+    text-align: center;
+    height: 500px;
+    width: 1200px;
+    background-color: whitesmoke;
+}
+.para16{
+    margin: 5px;
+    padding-top: 50px;
+    height: 300px;
+    width: 190px;
+    float: left;
+}
+.para17{
+    margin: 5px;
+    padding-top: 50px;
+    float: left;
+    height: 300px;
+    width: 190px;
+}
+.para18{
+    margin: 5px;
+    padding-top: 50px;
+    float: left;
+    height: 300px;
+    width: 190px;
+}
+.para19{
+    margin: 5px;
+    padding-top: 50px;
+    float: left;
+    height: 300px;
+    width: 190px;
+}
+.para20{
+    margin: 5px;
+    padding-top: 50px;
+    float: left;
+    height: 300px;
+    width: 190px;
+}
+.para21{
+    margin: 5px;
+    padding-top: 50px;
+    float: left;
+    height: 300px;
+    width: 190px;
+}
+.menu13{
+    color: #8fd400;
+}
+.button7{
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: #8fd400;
+    border-color: #8fd400;
+}
+.content6{
+    height: 200px;
+    width: 1200px;
+    background-color: #8fd400;
+}
+.menu14{
+    color: white;
+}
+.nav1{
+    background-color: #8fd400;
+    padding-top: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 50px;
+    position: 20px;
+}
+.nav1 ul li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 80px;
+}
+.nav1 ul li a{
+    text-decoration: none;
+}
+
